@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2002<br>📚 I'm currently learning Data structure</p>
+<p align="left">✨ Creating bugs since 2002<br>📚These are projects in python</p>
 
 ###
 
